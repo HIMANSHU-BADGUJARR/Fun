@@ -6,6 +6,12 @@ Upload a **video clip**, **photo**, or paste **text** — the platform instantly
 
 ---
 
+## 🖥️ Preview
+
+![Website Preview](preview.png)
+
+---
+
 ## ✨ Features
 
 - 🖼️ **Image detection** — Analyses EXIF metadata, pixel noise, color distribution, and dimensions to identify AI-generated images (Stable Diffusion, Midjourney, DALL-E, etc.)
